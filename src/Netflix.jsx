@@ -6,7 +6,7 @@ function Netflix() {
         <section className=' bg-amber-600 h-40 w-full'><h1 className='text-white'>What is Netflix</h1>
 </section>
         <section></section>
-        <section>yjhtgfd</section>    
+        <section></section>    
 
     </div>
   )
