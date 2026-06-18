@@ -13,7 +13,7 @@ function Body() {
       <section className='h-45 bg-white w-[45%]'>
         <FaCloudArrowUp className='text-4xl' />
         cloud and digital
-        more
+        more 
       </section>
       <section className='h-45 bg-white w-[45%]'>
         <FaWarehouse className='text-5xl' />
