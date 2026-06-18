@@ -4,8 +4,6 @@ function Mile() {
   let [num,setnum]=useState(0)
   const[mycoco, setMycoco]= useState(false)
 
-  
-
   function togglecolor(){
     setMycoco(!mycoco) 
 }
