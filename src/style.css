@@ -1,0 +1,59 @@
+.h1{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    
+}
+.das{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    gap: 10px;
+}
+.hp{
+    height: 300px;
+    width: 25%;
+    background-color: purple;
+}
+.king{
+    height: 300px;
+    width: 100%;
+    background-color: green;
+    display: flex;
+    margin-top: 20px;
+     
+    
+
+
+}
+
+
+.hig1{
+    height: inherit;
+    width: 50%;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+}
+.hig2{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+}
+.hig2i{
+    height: inherit;
+    width: 100%;
+    background-color: pink;
+}
+.hig2ii{
+    height: inherit;
+    width: 100%;
+    background-color: yellow;
+
+}
+    
+    
+
